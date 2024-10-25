@@ -1,5 +1,6 @@
-//'use client';
+'use client';
 // I was never able to get this to work, it just says undefined
+// for some reason it works now
 
 import {
   UserGroupIcon,
